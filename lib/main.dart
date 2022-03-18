@@ -4,6 +4,10 @@ void main() {
   runApp(const MyApp());
 
   //login task
+
+  //registration
+  //hello
+  //blab
 }
 
 class MyApp extends StatelessWidget {
